@@ -22,7 +22,8 @@ Clone the repository to your local machine:
 git clone https://github.com/NotoriousX/IoTSentinel.git
 
 cd IoTSentinel
-python iot_sentinel.py
+
+python3 iot_sentinel.py
 
 
 Usage
